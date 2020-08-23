@@ -5,6 +5,8 @@ I have a 2:1 MSci in Computer Science from the University of Nottingham, and a g
 In my spare time I like watching sports - rugby league and American football in particular - and playing video games.
 Groundbreaking I know.
 
+I am also in dire need of a new headshot - to the left is a photo from mid-late 2017 and is in no way reflective of my current hairline.
+
 <!--
 **GingertronMk1/gingertronmk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
