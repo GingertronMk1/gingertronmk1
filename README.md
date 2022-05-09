@@ -1,6 +1,6 @@
 # Hi, I'm Jack
 
-I'm a web developer currently working for [We Are Sweet](https://www.wearesweet.co.uk/) in a primarily backend-focussed role.
+I'm a web developer currently working for [Box UK](https://www.boxuk.com/) in a developer role.
 I have a 2:1 MSci in Computer Science from the University of Nottingham, and a general enjoyment and aptitude for problem-solving.
 In my spare time I like watching sports - rugby league and American football in particular - and playing video games.
 Groundbreaking I know.
